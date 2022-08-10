@@ -1,0 +1,227 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    max-width: 100%;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Header1 {
+   
+    width: 100%;
+    height: 569px;
+    position: relative;
+    
+}
+.Header1imag{
+    margin-left: 337PX;
+}
+
+.Header01{
+    
+    position: fixed;
+    top: 60px;
+    width: 126px;
+    height: 17px;
+    margin-left: 42px;
+    
+
+}
+#img2 {
+   
+    width: 126px;
+    height: 11px;
+    margin-left: 42px;
+    z-index: 99;
+}
+.navigation1{
+    width: 100%;
+    height: 200px;
+    margin-left: 335px;
+    top: -20px;
+    position: absolute;
+
+}
+#mods a{
+    font-weight: lighter;
+    font-size: 19px;
+    text-decoration:none;
+    margin-left: 25px;
+    top: 10px;
+    margin-block-start: 40px;
+    color: black;
+    font-style: normal;
+    display: flex;
+    font-weight: 100;
+}
+/* #mod3 a{
+    font-weight: lighter;
+    font-size: 19px;
+    text-decoration:none;
+    margin-left: 431px;
+    top: 10px;
+    margin-block-start: 40px;
+    color: black;
+    font-style: normal;
+} */
+.navigation1 ul{
+    display: flex;
+    list-style-type: none;
+    position: fixed;
+    z-index: 1;
+    
+}
+#mods1 a{
+    font-weight: lighter;
+    font-size: 19px;
+    text-decoration:none;
+    margin-left: 165px;
+    top: 1px;
+    margin-block-start: 40px;
+    color: black;
+    position: relative;
+    display: flex;
+    font-weight: 100;
+}
+.Head2{
+    top: 105px;
+    margin-left: 943px;
+    position: absolute;
+}
+.Head2 h1{
+    font-size: 50px;
+    -tcl-homepage-hero-heading-font-size-desktop: 40px;
+    --tcl-homepage-hero-heading-font-size-mobile: 36px;
+}
+.Head3{
+    top: 169px;
+    margin-left: 917px;
+    position: absolute;
+    display: flex;
+}
+.but{
+    display: grid;
+    grid-template-columns: auto auto;
+    position: absolute;
+    top: 478px;
+    margin-left: 493px;
+   
+    width: 439px;
+    height: 47px;
+    position: fixed;
+}
+#bu2{
+    margin-left: 20px;
+    border-radius: 30px;
+    color: gray;
+    border: 0px;
+}
+#bu1{
+    border-radius: 30px;
+    background-color: grey;
+    color: white;
+   border: 0px;
+}
+.Head-top {
+   position: fixed;
+   position: relative;
+    width: 100%;
+    height: 40px;
+    top: 9px;
+    margin-left: 512px;
+    z-index: 100;
+
+}
+#re{
+    position: fixed;
+    color:black;
+}
+.Header2 img{
+    
+    width: 100%;
+    height: 900px;
+    object-fit: cover;
+    object-position: 0 -40px;
+    
+}
+.Header1imag{
+    object-fit: cover;
+    object-position: 0 -104px;
+}
+.HEAD4{
+    position: absolute;
+    top: 980px;
+    margin-left: 926px;
+
+}
+.Head31{
+    top: 1026px;
+    margin-left: 867px;
+   position: absolute;
+    display: flex;
+    color: black;
+}
+.HEAD5{
+    position: absolute;
+    top: 1740px;
+    margin-left: 974px;
+
+}
+.Head32{
+    top: 1780px;
+    margin-left: 907px;
+   position: absolute;
+    display: flex;
+    color: black;
+}
+#tou{
+    color: black;
+}
+.Header4 img{
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+    object-position: 0 --248px;
+}
+.HEAD6{
+    position: absolute;
+    top: 2474px;
+    margin-left: 918px;
+
+}
+.navigation2 ul{
+    position: absolute;
+    top: 2957px;
+    display: flex;
+    list-style: none;
+    margin-left: 696px;
+    color: black;
+}
+.navigation2{
+    width: 100%;
+    height: 10px;
+}
+.he2imag{
+        margin-left: 337PX;
+    
+}
+.he3imag{
+    margin-left: 337PX;
+}
+.he4imag{
+    margin-left: 337PX;
+}
+ul .mods2 {
+    align-items: center;
+    margin-left: 10px ;
+    
+    display: flex;
+
+}
+.mods2 a{
+    list-style-type: none;
+    text-decoration: none;
+    color: gray;
+    font-size: 12px;
+}
+
