@@ -1,10 +1,15 @@
+
+
+
 *{
     margin: 0px;
     padding: 0px;
     max-width: 100%;
-}
-*{
     font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    width: 100%;
+   overflow-x: hidden;
 }
 .Header1 {
    
@@ -14,7 +19,7 @@
     
 }
 .Header1imag{
-    margin-left: 337PX;
+    margin-left: 5PX;
 }
 
 .Header01{
@@ -85,7 +90,7 @@
 }
 .Head2{
     top: 105px;
-    margin-left: 943px;
+    margin-left: 639px;
     position: absolute;
 }
 .Head2 h1{
@@ -95,7 +100,7 @@
 }
 .Head3{
     top: 169px;
-    margin-left: 917px;
+    margin-left: 619px;
     position: absolute;
     display: flex;
 }
@@ -151,12 +156,12 @@
 .HEAD4{
     position: absolute;
     top: 980px;
-    margin-left: 926px;
+    margin-left: 613px;
 
 }
 .Head31{
     top: 1026px;
-    margin-left: 867px;
+    margin-left: 550px;
    position: absolute;
     display: flex;
     color: black;
@@ -164,12 +169,12 @@
 .HEAD5{
     position: absolute;
     top: 1740px;
-    margin-left: 974px;
+    margin-left: 649px;
 
 }
 .Head32{
     top: 1780px;
-    margin-left: 907px;
+    margin-left: 601px;
    position: absolute;
     display: flex;
     color: black;
@@ -181,12 +186,12 @@
     width: 100%;
     height: 600px;
     object-fit: cover;
-    object-position: 0 --248px;
+    object-position: 0 --268px;
 }
 .HEAD6{
     position: absolute;
     top: 2474px;
-    margin-left: 918px;
+    margin-left: 588px;
 
 }
 .navigation2 ul{
@@ -194,7 +199,7 @@
     top: 2957px;
     display: flex;
     list-style: none;
-    margin-left: 696px;
+    margin-left: 387px;
     color: black;
 }
 .navigation2{
@@ -202,14 +207,14 @@
     height: 10px;
 }
 .he2imag{
-        margin-left: 337PX;
+        margin-left: 5PX;
     
 }
 .he3imag{
-    margin-left: 337PX;
+    margin-left: 5PX;
 }
 .he4imag{
-    margin-left: 337PX;
+    margin-left: 5PX;
 }
 ul .mods2 {
     align-items: center;
